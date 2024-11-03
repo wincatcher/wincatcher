@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=wincatcher&icon=0&color=4)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 🔭 I’m currently working on AI tools website<br>🌱 I’m currently learning Next.js
 
@@ -15,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wincatcher&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wincatcher&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 
 
