@@ -1,7 +1,9 @@
-[![](https://visitcount.itsvg.in/api?id=wincatcher&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🔭 I’m currently working on AI tools website<br>🌱 I’m currently learning Next.js
+
+[![](https://visitcount.itsvg.in/api?id=wincatcher&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wincatcher) 
