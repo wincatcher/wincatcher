@@ -3,8 +3,7 @@
 # 💫 About 风巢森淼（wincatcher）:
 🔭 I’m currently working on AI tools website<br>🌱 I’m currently learning Next.js
 
-## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wincatcher) 
+
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/wincatcher) 
@@ -20,8 +19,7 @@
 ### Thanks for Visiting my GitHub Profile!
 
 ---
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+## 💰 You can help me by Donating
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wincatcher) 
 
 [![](https://visitcount.itsvg.in/api?id=wincatcher&icon=0&color=4)](https://visitcount.itsvg.in)
