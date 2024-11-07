@@ -11,6 +11,7 @@
 # 📊 GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wincatcher&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wincatcher&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wincatcher&theme=default&utcOffset=8)
 
 ### Thanks for Visiting my GitHub Profile!
 
